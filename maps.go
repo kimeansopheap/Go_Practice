@@ -35,6 +35,6 @@ func main() {
     fmt.Println("prs:", prs)
 
     // Here is how to declare and initialize a new map in same line
-    n := map[string]int{"foo": 1, "bar": 2}
+    n := map[string]int{"Your butt": 1, "bar": 2}
     fmt.Println("map:", n)
 }
